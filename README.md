@@ -45,18 +45,3 @@ The full day workshop continues in the afternoon with parts 5-7.
 - [Part 7](part-7.md) - production-ready orchestration with Docker swarm mode
 
 
-### Previous versions
-
-This workshop is a living thing. There are tags for previous versions:
-
-- [winops-feb18](https://github.com/sixeyed/docker-windows-workshop/tree/winops-feb18) - From the [London WinOps MeetUp #19](https://www.meetup.com/WinOps/events/247873979/), February 2018
-
-- [xpirit-17](https://github.com/sixeyed/docker-windows-workshop/tree/xpirit-17) - From Xpirit's [Docker on Microsoft MeetUp](https://www.meetup.com/Docker-with-Microsoft-Technologies/events/244448740), 2017
-
-- [dockercon-eu-17](https://github.com/sixeyed/docker-windows-workshop/tree/dockercon-eu-17) - from [DockerCon EU](https://europe-2017.dockercon.com), 2017
-
-- [winops-17](https://github.com/sixeyed/docker-windows-workshop/tree/winops-17) - from [WinOps Conference](https://www.winops.org/london/#dockerWS), 2017
-
-- [containercamp-17](https://github.com/sixeyed/docker-windows-workshop/tree/containercamp-17) - from [Container Camp](https://2017.container.camp/uk/) London, 2017
-
-- [devsum-17](https://github.com/sixeyed/docker-windows-workshop/tree/devsum-17) - from the [DevSum Conference](http://www.devsum.se/), 2017
